@@ -1,0 +1,7 @@
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\bin\Debug\BankOCR.exe.config
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\bin\Debug\BankOCR.exe
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\bin\Debug\BankOCR.pdb
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\obj\Debug\BankOCR.csproj.CoreCompileInputs.cache
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\obj\Debug\BankOCR.exe
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\obj\Debug\BankOCR.pdb
+C:\Dev\Kata\BankOCR\BankOCR\BankOCR\obj\Debug\BankOCR.csprojAssemblyReference.cache
